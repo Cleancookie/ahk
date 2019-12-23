@@ -1,0 +1,1 @@
+#Include %A_ScriptDir%\CapsUnlocked\CapsUnlocked.ahk
